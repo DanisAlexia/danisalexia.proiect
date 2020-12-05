@@ -1,1 +1,6 @@
-# danisalexia.proiect
+#include <stdio.h>
+
+using namespace std;
+
+int main(){
+
